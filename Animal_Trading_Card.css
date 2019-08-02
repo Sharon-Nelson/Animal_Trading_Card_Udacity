@@ -1,0 +1,30 @@
+
+.wrap{width:1000px;
+	margin:auto;
+	margin-top:90px}
+
+.card{
+	box-shadow:0 8px 16px 0 rgba(0,0,0.6);
+	transition:0.2s;
+	width:400px;
+	background:skyblue;
+	text-align:center;
+	font-size:18px;
+	font-family:sans-serif;
+	float:left;}
+.container{
+		padding:40px 20px;
+	}
+
+
+.border{text-align:center;
+border:2px solid black;
+font-family:sans-serif;
+font-size:18px;
+padding:2em;
+}
+
+ul{
+	list-style-type:none;
+	text-align:left;
+}
